@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hafizaryan&label=Profile%20views&color=0e75b6&style=flat" alt="hafizaryan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hafizaryan" alt="hafizaryan" /></a> </p>
-
 - 🔭 I’m currently working on [SITARIS SI](sitaris.lab-si.uin-suska.ac.id)
 
 - 🌱 I’m currently learning **React, CodeIgniter, and Laravel**
