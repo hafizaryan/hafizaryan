@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **SIMLAB**
 
-- 👨‍💻 All of my projects are available at [hafizaryan.netlify.app](hafizaryan.netlify.app)
+- 👨‍💻 All of my projects are available at [hafizaryan.netlify.app](https://hafizaryan.netlify.app)
 
 - 📫 How to reach me **hafizaryansiregar@gmail.com**
 
