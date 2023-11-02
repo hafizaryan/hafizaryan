@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate web developer from Indonesia</h3>
 
-<img align="center" width="100%" src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?w=1060&t=st=1698925211~exp=1698925811~hmac=40096b45d80cead53080a0ad57e34c6d64cdef0327a350e88d78b1eca5ee3207)" alt="hafizaryan"/>
+<img align="center" alt="web-developer" width="100%" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdevtechnosys.com%2Finsights%2Fwp-content%2Fuploads%2F2021%2F07%2Ffull-stack-development.gif&f=1&nofb=1&ipt=685aaa984172d5869b334b26fd35acfb25895ac747151e50db0d7229e9bd9baa&ipo=images"/>
 
 - 🔭 I’m currently working on [LAB-SI](https://lab-si.uin-suska.ac.id)
 
