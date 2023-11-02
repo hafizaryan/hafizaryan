@@ -2,6 +2,8 @@
 
 <h3 align="center">A passionate web developer from Indonesia</h3>
 
+<img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?w=1060&t=st=1698925211~exp=1698925811~hmac=40096b45d80cead53080a0ad57e34c6d64cdef0327a350e88d78b1eca5ee3207)" alt="hafizaryan" height="30" width="40" />
+
 Image by <a href="https://www.freepik.com/free-vector/hand-drawn-web-developers_12063795.htm#query=web%20developer%20animation&position=49&from_view=search&track=ais">Freepik</a>
 
 - 🔭 I’m currently working on [LAB-SI](https://lab-si.uin-suska.ac.id)
