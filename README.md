@@ -1,8 +1,18 @@
 <h1 align="center">Hi 👋, I'm Hafiz Aryan</h1>
 
-<a href="https://codeigniter.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-</a>
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <circle cx="100" cy="100" r="80" fill="#3498db" /> <!-- Lingkaran latar belakang -->
+  <circle cx="100" cy="60" r="50" fill="#fff" /> <!-- Kepala -->
+  <rect x="80" y="110" width="40" height="40" fill="#2c3e50" /> <!-- Tubuh -->
+  <rect x="95" y="150" width="30" height="15" fill="#e67e22" /> <!-- Celana -->
+  <rect x="85" y="110" width="10" height="40" fill="#e67e22" /> <!-- Lengan kiri -->
+  <rect x="105" y="110" width="10" height="40" fill="#e67e22" /> <!-- Lengan kanan -->
+  <circle cx="100" cy="30" r="8" fill="#e74c3c" /> <!-- Topi -->
+  <rect x="95" y="30" width="10" height="10" fill="#fff" /> <!-- Mata kiri -->
+  <rect x="105" y="30" width="10" height="10" fill="#fff" /> <!-- Mata kanan -->
+  <path d="M100 40 Q110 45, 100 50 Q90 45, 100 40 Z" fill="#fff" /> <!-- Mulut -->
+</svg>
+
 
 
 <h3 align="center">A passionate web developer from Indonesia</h3>
