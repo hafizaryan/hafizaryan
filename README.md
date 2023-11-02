@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hafiz Aryan</h1>
+
+<img align="center"  width="100%" src="https://iconscout.com/lottie-animation/web-development-4518781" alt="">
+
 <h3 align="center">A passionate web developer from Indonesia</h3>
 
 - 🔭 I’m currently working on [LAB-SI](https://lab-si.uin-suska.ac.id)
