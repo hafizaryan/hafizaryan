@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hafiz Aryan</h1>
 
-<img align="center" width="100%" src="https://iconscout.com/lottie-animation/web-development-4518781](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftoon2.in%2Fwp-content%2Fuploads%2Frevslider%2Fwhite-banner%2Fwebdevelopment.jpg&f=1&nofb=1&ipt=c17dd7b2896e5041a3400d617765dafcdc5620bae4b46c9bb9547b447a4d1f79&ipo=images)" alt="">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer">
 
 <h3 align="center">A passionate web developer from Indonesia</h3>
 
