@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, i'm <img src="https://readme-typing-svg.herokuapp.com?Hafiz+Aryan+Siregar" /></h1> 
+<h1 align="center">Hi 👋, i'm <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&size=40&pause=1000&color=F7F7F7&random=false&width=435&lines=Hafiz+Aryan+Siregar" alt="Typing SVG" /></a></h1> 
 
 <img align="center" alt="web-developer" width="100%" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdevtechnosys.com%2Finsights%2Fwp-content%2Fuploads%2F2021%2F07%2Ffull-stack-development.gif&f=1&nofb=1&ipt=685aaa984172d5869b334b26fd35acfb25895ac747151e50db0d7229e9bd9baa&ipo=images"/>
 
