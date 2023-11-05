@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **React, CodeIgniter, and Laravel**
 
-- 👯 I'm collaborating on **SIMLAB**
-
 - 👨‍💻 All of my projects are available at [hafizaryan.netlify.app](https://hafizaryan.netlify.app)
 
 - 📫 How to reach me **hafizaryansiregar@gmail.com**
