@@ -2,7 +2,7 @@
 
 <h3 align="left">About me:</h3>
 
-- 🌱 I’m currently learning about **Cloud Computing**
+- 🌱 I’m currently learning about **Cloud Computing** at Bangkit Academy
 
 - 👨‍💻 All of my projects are available at [hafizaryan.netlify.app](https://hafizaryan.netlify.app)
 
