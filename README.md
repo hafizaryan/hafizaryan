@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning about **Cloud Computing** at Bangkit Academy 2024 Batch 2
 
-- 👨‍💻 All of my projects are available here: [hafizaryan.netlify.app](https://hafizaryan.netlify.app)
+- 👨‍💻 All of my projects are available at [hafizaryan.netlify.app](https://hafizaryan.netlify.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
