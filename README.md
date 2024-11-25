@@ -32,10 +32,10 @@
 
   <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-  <a href="https://github.com/hafizaryan/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=DenverCoder1&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=DenverCoder1&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <a href="https://github.com/hafizaryan"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=DenverCoder1&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/hafizaryan"><img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=DenverCoder1&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
   <br/>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hpdrr&theme=ads-juicy-fresh&hide_border=true&background=112240&fire=F97316&ring=F97316&currStreakNum=5EEAD4&sideNums=5EEAD4&sideLabels=CCD6F6&dates=8892B0)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hafizaryan&theme=ads-juicy-fresh&hide_border=true&background=112240&fire=F97316&ring=F97316&currStreakNum=5EEAD4&sideNums=5EEAD4&sideLabels=CCD6F6&dates=8892B0)](https://git.io/streak-stats)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hafizaryan&label=Profile%20views&color=0e75b6" alt="hafizaryan" /> </p>
