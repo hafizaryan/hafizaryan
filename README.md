@@ -17,6 +17,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hafizaryan&show_icons=true&locale=en&layout=compact&theme=dark" alt="hafizaryan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hafizaryan&theme=dark" alt="hafizaryan" /></p>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hpdrr&theme=ads-juicy-fresh&hide_border=true&background=112240&fire=F97316&ring=F97316&currStreakNum=5EEAD4&sideNums=5EEAD4&sideLabels=CCD6F6&dates=8892B0)](https://git.io/streak-stats)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hafizaryan&label=Profile%20views&color=0e75b6" alt="hafizaryan" /> </p>
