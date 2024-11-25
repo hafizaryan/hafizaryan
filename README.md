@@ -1,9 +1,6 @@
 <img align="center" src="https://readme-typing-svg.herokuapp.com?font=&size=25&duration=5001&pause=1000&color=F7F7F7&random=false&width=435&lines=Hi" alt="Typing SVG" />
 <h3 align="center">About me:</h3>
-<p align="left">- 🌱 I’m currently learning about **Cloud Computing** at Bangkit Academy 2024 Batch 2
-- 👨‍💻 All of my projects are available at [hafizaryan.netlify.app](https://hafizaryan.netlify.app) </p>
 
-<br>
 <h3 align="center">My Github's Stats</h3>
 <br>
 <p align="center">
