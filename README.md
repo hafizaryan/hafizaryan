@@ -1,4 +1,4 @@
-<img align="center" src="https://readme-typing-svg.herokuapp.com?font=&size=25&duration=5001&pause=1000&color=F7F7F7&random=false&width=435&lines=Hello" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=&size=25&duration=5001&pause=1000&color=F7F7F7&random=false&width=435&lines=Hello" alt="Typing SVG" align="center" />
 <h3 align="center">About me:</h3>
 
 <h3 align="center">My Github's Stats</h3>
