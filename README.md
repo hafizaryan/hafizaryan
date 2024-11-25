@@ -11,6 +11,12 @@
 <a href="https://linkedin.com/in/hafizaryan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hafizaryan" height="30" width="40" /></a>
 <a href="https://instagram.com/hafizaryan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hafizaryan_" height="30" width="40" /></a>
 
-## 📊 GitHub Stats
+<br>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hafizaryan&layout=compact&theme=radical)
+### 📊 Github Stats
+<a href='https://github.com/hafizaryan/github-stats-transparent'>
+  
+![Stats Overview](https://raw.githubusercontent.com/hafizaryan/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/hafizaryan/github-stats-transparent/output/generated/languages.svg)
+
+</a>
