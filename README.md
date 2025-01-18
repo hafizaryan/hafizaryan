@@ -3,7 +3,7 @@
 <hr>
 <p align="justify">Results-driven Web Developer with specialized expertise in Web Development with two year of hands-on experience developing information systems and implementing testing solutions. Demonstrated success in creating robust test cases and generating comprehensive technical reports. Currently serving as a Cohort at Bangkit Academy 2024 Batch 2, where I contribute technical expertise and share knowledge with the developer community. Passionate about advancing software quality through effective testing methodologies and staying current with emerging technologies. </p>
 
-My Current App:
+Latest Projects: <br>
 <a href="https://sitaris.lab-si.uin-suska.ac.id">https://sitaris.lab-si.uin-suska.ac.id</a> <br>
 <a href="https://ilmis.lab-si.uin-suska.ac.id">https://ilmis.lab-si.uin-suska.ac.id</a>
 
