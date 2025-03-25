@@ -15,4 +15,4 @@ Latest Projects: <br>
 <hr>
 
 <h3 align="center">Get In Touch</h3>
-<p align="justify">I'm always open to new ideas and opportunities. You can learn more about me on my website or connect with me on <a href="https://linkedin/in/hafizaryan">LinkedIn</a>. Feel free to reach out to me directly at <a href="mailto:hafizaryansiregar@tuta.io">hafizaryansiregar@tuta.io</a> Let's connect and explore exciting possibilities together!</p>
+<p align="justify">I'm always open to new ideas and opportunities. You can learn more about me on my website or connect with me on <a href="https://linkedin/in/hafizaryan">LinkedIn</a>. Feel free to reach out to me directly at <a href="mailto:hafizaryansiregar@gmail.com">hafizaryansiregar@gmail.com</a> Let's connect and explore exciting possibilities together!</p>
