@@ -4,7 +4,7 @@
 <p align="justify">Web Developer with experience in Web Development with two year of hands-on experience developing information systems and implementing testing solutions. Demonstrated success in creating robust test cases and generating comprehensive technical reports. Currently serving as a Cohort at Coding Camp powered by DBS Foundation 2025, where I contribute technical expertise and share knowledge with the developer community. Passionate about advancing software quality through effective testing methodologies and staying current with emerging technologies. </p>
 
 Latest Projects: <br>
-<a href="https://sitaris.lab-si.uin-suska.ac.id">https://sitaris.lab-si.uin-suska.ac.id</a> and <a href="https://ilmis.blogwira.my.id">Integrated Laboratory Management Information System</a>
+<a href="https://sitaris.lab-si.uin-suska.ac.id">SITARIS</a> and <a href="https://repository.uin-suska.ac.id/87905/">ILMIS</a>
 
 <h3 align="center">My Github's Stats</h3>
 <hr>
