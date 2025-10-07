@@ -1,7 +1,7 @@
 <h3 align="center">About Me</h3>
 
 <hr>
-<p align="justify">Web Developer with experience in Web Development with two year of hands-on experience developing information systems and implementing testing solutions. Demonstrated success in creating robust test cases and generating comprehensive technical reports. Currently serving as a Cohort at Coding Camp powered by DBS Foundation 2025, where I contribute technical expertise and share knowledge with the developer community. Passionate about advancing software quality through effective testing methodologies and staying current with emerging technologies. </p>
+<p align="justify">Web Developer with two years of hands-on experience building information systems and implementing testing solutions. Proven at designing robust test cases and writing clear technical reports. Currently interning as an IT Project Lead, driving system improvements, QA practices, and cross-team coordination. Passionate about advancing software quality and keeping up with emerging technologies.</p>
 
 <h3 align="center">My Github's Stats</h3>
 <hr>
