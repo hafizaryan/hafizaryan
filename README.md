@@ -1,7 +1,7 @@
 <h3 align="center">About Me</h3>
 
 <hr>
-<p align="justify">Web Developer at PT Pertamina Patra Niaga since August 2025, based in Jakarta, Indonesia. I build and maintain information systems for LPG 3 kg distribution using ASP.NET Core and C#, and I develop personal projects with PHP (Laravel), Node.js, and Vue. My featured projects include Foodinary (an Indonesian food recognition web app), ILMIS (a laboratory information management system), and Daisy (an AI dermatology assistant). I hold a Bachelor's degree in Information Systems from UIN Suska Riau (GPA 3.86) and graduated from the DBS Foundation Coding Camp with Distinction. I am open to new opportunities.</p>
+<p align="justify">I build web applications and information systems, focusing on clean, practical, and maintainable code. I develop personal projects with PHP (Laravel), Node.js, and Vue. My featured projects include Foodinary (an Indonesian food recognition web app), ILMIS (a laboratory information management system), and Daisy (an AI dermatology assistant). I hold a Bachelor's degree in Information Systems from UIN Suska Riau (GPA 3.86) and graduated from the DBS Foundation Coding Camp with Distinction. I am open to new opportunities.</p>
 
 <h3 align="center">My Github's Stats</h3>
 <hr>
