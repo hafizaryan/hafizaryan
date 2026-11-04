@@ -27,8 +27,11 @@ Currently turning ideas into useful software from Jakarta.
 - [**ILMIS**](https://github.com/hafizaryan/ilmis-landing-page) — laboratory information system
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hafizaryan&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" alt="Hafiz's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafizaryan&layout=compact&hide_border=true&theme=transparent&langs_count=6" alt="Top languages" />
+
+<a href="https://github.com/hafizaryan?tab=repositories">55 public repositories</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="https://github.com/hafizaryan">View my GitHub</a>
+
 </div>
 
 <div align="center">
