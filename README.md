@@ -1,41 +1,58 @@
 <div align="center">
 
-# Hafiz Aryan Siregar
+# Hafiz Aryan
 
-### Web Developer · Information Systems
+**Web developer building useful things for the web.**
 
-[Website](https://hafizaryan.github.io) · [LinkedIn](https://www.linkedin.com/in/hafizaryan) · [Email](mailto:hafizaryansiregar@outlook.co.id)
+Jakarta, Indonesia · [Website](https://hafizaryan.github.io) · [LinkedIn](https://www.linkedin.com/in/hafizaryan)
+
+</div>
 
 <br />
 
-![Profile views](https://komarev.com/ghpvc/?username=hafizaryan&style=flat-square&color=0e75b6)
-
-</div>
-
----
+## About
 
 I build web applications and information systems with **Laravel, Node.js, Vue, and machine learning**.
 
-Information Systems graduate from **UIN Suska Riau** with a **3.86 GPA** and **DBS Foundation Coding Camp graduate with Distinction**.
+Information Systems graduate from **UIN Suska Riau** with a **3.86 GPA**.
 
-Currently turning ideas into useful software from Jakarta.
+DBS Foundation Coding Camp graduate with **Distinction**.
 
-## A few things I've built
+## Selected work
 
-- [**Foodinary**](https://github.com/hafizaryan) — Indonesian food recognition
-- [**Daisy**](https://github.com/hafizaryan) — AI dermatology assistant
-- [**ILMIS**](https://github.com/hafizaryan/ilmis-landing-page) — laboratory information system
+<table>
+  <tr>
+    <td width="50%">
+      <strong><a href="https://github.com/hafizaryan">Foodinary</a></strong><br />
+      Indonesian food recognition
+    </td>
+    <td width="50%">
+      <strong><a href="https://github.com/hafizaryan">Daisy</a></strong><br />
+      AI dermatology assistant
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <strong><a href="https://github.com/hafizaryan/ilmis-landing-page">ILMIS</a></strong><br />
+      Laboratory information system
+    </td>
+    <td width="50%">
+      <strong><a href="https://github.com/hafizaryan/mlgc-submission">MLGC</a></strong><br />
+      Skin-cancer prediction API
+    </td>
+  </tr>
+</table>
+
+## Stack
+
+`PHP` · `Laravel` · `JavaScript` · `Node.js` · `Vue` · `TensorFlow.js` · `MySQL`
 
 <div align="center">
 
-<a href="https://github.com/hafizaryan?tab=repositories">55 public repositories</a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="https://github.com/hafizaryan">View my GitHub</a>
+<br />
 
-</div>
-
-<div align="center">
-
-**Open to building something meaningful.**
+<a href="https://github.com/hafizaryan?tab=repositories"><strong>55 public repositories</strong></a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="mailto:hafizaryansiregar@outlook.co.id">Let's build something</a>
 
 </div>
