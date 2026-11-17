@@ -17,8 +17,3 @@ I'm Hafiz Aryan Siregar, a web developer focused on building practical applicati
   <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hafizaryan&theme=default">
   <img alt="Hafiz Aryan Siregar's GitHub profile details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hafizaryan&theme=default">
 </picture>
-
-## Links
-
-- Portfolio: https://hafizaryansiregar.my.id
-- LinkedIn: https://www.linkedin.com/in/hafizaryan
